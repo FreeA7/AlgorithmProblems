@@ -190,7 +190,8 @@ class Solution3:
     @timer
     def solve(self , n , a ):
         return [self.everyK(i,a) for i in range(1,n+1)]
-    
+ 
+# --------------------- 输出 ---------------------
 target1 = [5,[1,2,3,4,5]]
 target2 = [10, [1 for i in range(10)]]
 target3 = [20, [1 for i in range(20)]]
