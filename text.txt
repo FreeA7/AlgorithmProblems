@@ -1,0 +1,1992 @@
+this_num:7962:
+7962 4208 len_this_num:2
+this_num:4208:
+4208 5646 4161 len_this_num:3
+this_num:5646:
+5646 4161 len_this_num:2
+this_num:4161:
+4161 8142 8503 9506 2159 len_this_num:5
+this_num:8142:
+8142 8503 9506 2159 len_this_num:4
+this_num:8503:
+8503 9506 2159 len_this_num:3
+this_num:9506:
+9506 2159 len_this_num:2
+this_num:2159:
+2159 8809 6097 2200 len_this_num:4
+this_num:8809:
+8809 6097 2200 len_this_num:3
+this_num:6097:
+6097 2200 len_this_num:2
+this_num:2200:
+2200 2589 788 len_this_num:3
+this_num:2589:
+2589 788 len_this_num:2
+this_num:788:
+788 3256 9035 4425 4425 3256 len_this_num:5
+this_num:3256:
+3256 9035 4425 len_this_num:3
+this_num:9035:
+9035 4425 len_this_num:2
+this_num:4425:
+4425 7492 5732 61 len_this_num:4
+this_num:7492:
+7492 5732 61 len_this_num:3
+this_num:5732:
+5732 61 len_this_num:2
+this_num:61:
+61 4667 403 len_this_num:3
+this_num:4667:
+4667 403 len_this_num:2
+this_num:403:
+403 8362 8894 1044 162 len_this_num:5
+this_num:8362:
+8362 8894 1044 162 len_this_num:4
+this_num:8894:
+8894 1044 162 len_this_num:3
+this_num:1044:
+1044 162 len_this_num:2
+this_num:162:
+162 9207 6104 114 len_this_num:4
+this_num:9207:
+9207 6104 114 len_this_num:3
+this_num:6104:
+6104 114 len_this_num:2
+this_num:114:
+114 5793 1972 len_this_num:3
+this_num:5793:
+5793 1972 len_this_num:2
+this_num:1972:
+1972 9844 5007 len_this_num:3
+this_num:9844:
+9844 5007 len_this_num:2
+this_num:5007:
+5007 6831 4884 3316 2632 1294 len_this_num:6
+this_num:6831:
+6831 4884 3316 2632 1294 len_this_num:5
+this_num:4884:
+4884 3316 2632 1294 len_this_num:4
+this_num:3316:
+3316 2632 1294 len_this_num:3
+this_num:2632:
+2632 1294 len_this_num:2
+this_num:1294:
+1294 2489 9664 5826 5826 2489 len_this_num:5
+this_num:2489:
+2489 9664 5826 len_this_num:3
+this_num:9664:
+9664 5826 len_this_num:2
+this_num:5826:
+5826 6612 4377 1952 len_this_num:4
+this_num:6612:
+6612 4377 1952 len_this_num:3
+this_num:4377:
+4377 1952 len_this_num:2
+this_num:1952:
+1952 5498 9486 477 len_this_num:4
+this_num:5498:
+5498 9486 477 len_this_num:3
+this_num:9486:
+9486 477 len_this_num:2
+this_num:477:
+477 2829 7017 3356 952 len_this_num:5
+this_num:2829:
+2829 7017 3356 952 len_this_num:4
+this_num:7017:
+7017 3356 952 len_this_num:3
+this_num:3356:
+3356 952 len_this_num:2
+this_num:952:
+952 8496 5646 5178 len_this_num:4
+this_num:8496:
+8496 5646 5178 len_this_num:3
+this_num:5646:
+5646 5178 len_this_num:2
+this_num:5178:
+5178 5592 1549 len_this_num:3
+this_num:5592:
+5592 1549 len_this_num:2
+this_num:1549:
+1549 5022 8097 5945 466 len_this_num:5
+this_num:5022:
+5022 8097 5945 466 len_this_num:4
+this_num:8097:
+8097 5945 466 len_this_num:3
+this_num:5945:
+5945 466 len_this_num:2
+this_num:466:
+466 8214 9081 2185 1608 len_this_num:5
+this_num:8214:
+8214 9081 2185 1608 len_this_num:4
+this_num:9081:
+9081 2185 1608 len_this_num:3
+this_num:2185:
+2185 1608 len_this_num:2
+this_num:1608:
+1608 7622 8333 2592 len_this_num:4
+this_num:7622:
+7622 8333 2592 len_this_num:3
+this_num:8333:
+8333 2592 len_this_num:2
+this_num:2592:
+2592 5364 3282 len_this_num:3
+this_num:5364:
+5364 3282 len_this_num:2
+this_num:3282:
+3282 9984 4432 1589 35 len_this_num:5
+this_num:9984:
+9984 4432 1589 35 len_this_num:4
+this_num:4432:
+4432 1589 35 len_this_num:3
+this_num:1589:
+1589 35 len_this_num:2
+this_num:35:
+35 3179 9649 4642 3389 3389 3179 len_this_num:6
+this_num:3179:
+3179 9649 4642 3389 len_this_num:4
+this_num:9649:
+9649 4642 3389 len_this_num:3
+this_num:4642:
+4642 3389 len_this_num:2
+this_num:3389:
+3389 8340 117 len_this_num:3
+this_num:8340:
+8340 117 len_this_num:2
+this_num:117:
+117 8935 5293 1861 len_this_num:4
+this_num:8935:
+8935 5293 1861 len_this_num:3
+this_num:5293:
+5293 1861 len_this_num:2
+this_num:1861:
+1861 2649 2580 len_this_num:3
+this_num:2649:
+2649 2580 len_this_num:2
+this_num:2580:
+2580 9194 2162 len_this_num:3
+this_num:9194:
+9194 2162 len_this_num:2
+this_num:2162:
+2162 5695 5319 4750 513 218 len_this_num:6
+this_num:5695:
+5695 5319 4750 513 218 len_this_num:5
+this_num:5319:
+5319 4750 513 218 len_this_num:4
+this_num:4750:
+4750 513 218 len_this_num:3
+this_num:513:
+513 218 len_this_num:2
+this_num:218:
+218 5722 9658 8785 3764 len_this_num:5
+this_num:5722:
+5722 9658 8785 3764 len_this_num:4
+this_num:9658:
+9658 8785 3764 len_this_num:3
+this_num:8785:
+8785 3764 len_this_num:2
+this_num:3764:
+3764 9179 6651 len_this_num:3
+this_num:9179:
+9179 6651 len_this_num:2
+this_num:6651:
+6651 8879 7027 910 len_this_num:4
+this_num:8879:
+8879 7027 910 len_this_num:3
+this_num:7027:
+7027 910 len_this_num:2
+this_num:910:
+910 5184 1676 len_this_num:3
+this_num:5184:
+5184 1676 len_this_num:2
+this_num:1676:
+1676 9069 3754 len_this_num:3
+this_num:9069:
+9069 3754 len_this_num:2
+this_num:3754:
+3754 5850 4546 len_this_num:3
+this_num:5850:
+5850 4546 len_this_num:2
+this_num:4546:
+4546 9250 6427 2223 len_this_num:4
+this_num:9250:
+9250 6427 2223 len_this_num:3
+this_num:6427:
+6427 2223 len_this_num:2
+this_num:2223:
+2223 9421 3161 len_this_num:3
+this_num:9421:
+9421 3161 len_this_num:2
+this_num:3161:
+3161 7808 9546 1340 1253 len_this_num:5
+this_num:7808:
+7808 9546 1340 1253 len_this_num:4
+this_num:9546:
+9546 1340 1253 len_this_num:3
+this_num:1340:
+1340 1253 len_this_num:2
+this_num:1253:
+1253 6456 1836 len_this_num:3
+this_num:6456:
+6456 1836 len_this_num:2
+this_num:1836:
+1836 3448 9594 7361 7361 3448 len_this_num:5
+this_num:3448:
+3448 9594 7361 len_this_num:3
+this_num:9594:
+9594 7361 len_this_num:2
+this_num:7361:
+7361 7940 3497 len_this_num:3
+this_num:7940:
+7940 3497 len_this_num:2
+this_num:3497:
+3497 8246 410 len_this_num:3
+this_num:8246:
+8246 410 len_this_num:2
+this_num:410:
+410 5244 7953 5755 3586 len_this_num:5
+this_num:5244:
+5244 7953 5755 3586 len_this_num:4
+this_num:7953:
+7953 5755 3586 len_this_num:3
+this_num:5755:
+5755 3586 len_this_num:2
+this_num:3586:
+3586 5409 8725 6611 103 len_this_num:5
+this_num:5409:
+5409 8725 6611 103 len_this_num:4
+this_num:8725:
+8725 6611 103 len_this_num:3
+this_num:6611:
+6611 103 len_this_num:2
+this_num:103:
+103 3330 8582 9008 9265 9370 2326 len_this_num:7
+this_num:3330:
+3330 8582 9008 9265 9370 2326 len_this_num:6
+this_num:8582:
+8582 9008 9265 9370 2326 len_this_num:5
+this_num:9008:
+9008 9265 9370 2326 len_this_num:4
+this_num:9265:
+9265 9370 2326 len_this_num:3
+this_num:9370:
+9370 2326 len_this_num:2
+this_num:2326:
+2326 6515 2741 len_this_num:3
+this_num:6515:
+6515 2741 len_this_num:2
+this_num:2741:
+2741 7639 9507 9472 2815 len_this_num:5
+this_num:7639:
+7639 9507 9472 2815 len_this_num:4
+this_num:9507:
+9507 9472 2815 len_this_num:3
+this_num:9472:
+9472 2815 len_this_num:2
+this_num:2815:
+2815 5105 5716 3191 773 len_this_num:5
+this_num:5105:
+5105 5716 3191 773 len_this_num:4
+this_num:5716:
+5716 3191 773 len_this_num:3
+this_num:3191:
+3191 773 len_this_num:2
+this_num:773:
+773 5296 3080 1578 len_this_num:4
+this_num:5296:
+5296 3080 1578 len_this_num:3
+this_num:3080:
+3080 1578 len_this_num:2
+this_num:1578:
+1578 3980 4591 4204 3223 len_this_num:5
+this_num:3980:
+3980 4591 4204 3223 len_this_num:4
+this_num:4591:
+4591 4204 3223 len_this_num:3
+this_num:4204:
+4204 3223 len_this_num:2
+this_num:3223:
+3223 5857 2700 len_this_num:3
+this_num:5857:
+5857 2700 len_this_num:2
+this_num:2700:
+2700 8844 2322 len_this_num:3
+this_num:8844:
+8844 2322 len_this_num:2
+this_num:2322:
+2322 3280 6762 2702 1268 len_this_num:5
+this_num:3280:
+3280 6762 2702 1268 len_this_num:4
+this_num:6762:
+6762 2702 1268 len_this_num:3
+this_num:2702:
+2702 1268 len_this_num:2
+this_num:1268:
+1268 1364 5152 3838 3838 1364 len_this_num:5
+this_num:1364:
+1364 5152 3838 len_this_num:3
+this_num:5152:
+5152 3838 len_this_num:2
+this_num:3838:
+3838 9225 8628 2752 len_this_num:4
+this_num:9225:
+9225 8628 2752 len_this_num:3
+this_num:8628:
+8628 2752 len_this_num:2
+this_num:2752:
+2752 8227 6272 1792 len_this_num:4
+this_num:8227:
+8227 6272 1792 len_this_num:3
+this_num:6272:
+6272 1792 len_this_num:2
+this_num:1792:
+1792 2195 6333 7514 7481 3370 3370 2195 len_this_num:7
+this_num:2195:
+2195 6333 7514 7481 3370 len_this_num:5
+this_num:6333:
+6333 7514 7481 3370 len_this_num:4
+this_num:7514:
+7514 7481 3370 len_this_num:3
+this_num:7481:
+7481 3370 len_this_num:2
+this_num:3370:
+3370 8991 9135 9979 2709 len_this_num:5
+this_num:8991:
+8991 9135 9979 2709 len_this_num:4
+this_num:9135:
+9135 9979 2709 len_this_num:3
+this_num:9979:
+9979 2709 len_this_num:2
+this_num:2709:
+2709 7075 64 len_this_num:3
+this_num:7075:
+7075 64 len_this_num:2
+this_num:64:
+64 4389 6277 4381 len_this_num:4
+this_num:4389:
+4389 6277 4381 len_this_num:3
+this_num:6277:
+6277 4381 len_this_num:2
+this_num:4381:
+4381 7109 2650 2188 170 len_this_num:5
+this_num:7109:
+7109 2650 2188 170 len_this_num:4
+this_num:2650:
+2650 2188 170 len_this_num:3
+this_num:2188:
+2188 170 len_this_num:2
+this_num:170:
+170 5506 8598 7883 7883 5506 len_this_num:5
+this_num:5506:
+5506 8598 7883 len_this_num:3
+this_num:8598:
+8598 7883 len_this_num:2
+this_num:7883:
+7883 9499 2420 len_this_num:3
+this_num:9499:
+9499 2420 len_this_num:2
+this_num:2420:
+2420 6886 7759 5321 len_this_num:4
+this_num:6886:
+6886 7759 5321 len_this_num:3
+this_num:7759:
+7759 5321 len_this_num:2
+this_num:5321:
+5321 9814 1497 len_this_num:3
+this_num:9814:
+9814 1497 len_this_num:2
+this_num:1497:
+1497 5970 9532 7593 1062 len_this_num:5
+this_num:5970:
+5970 9532 7593 1062 len_this_num:4
+this_num:9532:
+9532 7593 1062 len_this_num:3
+this_num:7593:
+7593 1062 len_this_num:2
+this_num:1062:
+1062 5398 6851 1883 len_this_num:4
+this_num:5398:
+5398 6851 1883 len_this_num:3
+this_num:6851:
+6851 1883 len_this_num:2
+this_num:1883:
+1883 4458 9043 3505 len_this_num:4
+this_num:4458:
+4458 9043 3505 len_this_num:3
+this_num:9043:
+9043 3505 len_this_num:2
+this_num:3505:
+3505 5736 1257 len_this_num:3
+this_num:5736:
+5736 1257 len_this_num:2
+this_num:1257:
+1257 9657 9645 4076 len_this_num:4
+this_num:9657:
+9657 9645 4076 len_this_num:3
+this_num:9645:
+9645 4076 len_this_num:2
+this_num:4076:
+4076 9695 9613 6862 5084 len_this_num:5
+this_num:9695:
+9695 9613 6862 5084 len_this_num:4
+this_num:9613:
+9613 6862 5084 len_this_num:3
+this_num:6862:
+6862 5084 len_this_num:2
+this_num:5084:
+5084 9665 2538 len_this_num:3
+this_num:9665:
+9665 2538 len_this_num:2
+this_num:2538:
+2538 7121 1445 len_this_num:3
+this_num:7121:
+7121 1445 len_this_num:2
+this_num:1445:
+1445 4518 8243 2360 len_this_num:4
+this_num:4518:
+4518 8243 2360 len_this_num:3
+this_num:8243:
+8243 2360 len_this_num:2
+this_num:2360:
+2360 4718 7130 6932 4599 1484 len_this_num:6
+this_num:4718:
+4718 7130 6932 4599 1484 len_this_num:5
+this_num:7130:
+7130 6932 4599 1484 len_this_num:4
+this_num:6932:
+6932 4599 1484 len_this_num:3
+this_num:4599:
+4599 1484 len_this_num:2
+this_num:1484:
+1484 3187 539 len_this_num:3
+this_num:3187:
+3187 539 len_this_num:2
+this_num:539:
+539 9119 31 len_this_num:3
+this_num:9119:
+9119 31 len_this_num:2
+this_num:31:
+31 8056 6419 2717 len_this_num:4
+this_num:8056:
+8056 6419 2717 len_this_num:3
+this_num:6419:
+6419 2717 len_this_num:2
+this_num:2717:
+2717 9546 3813 1865 1692 len_this_num:5
+this_num:9546:
+9546 3813 1865 1692 len_this_num:4
+this_num:3813:
+3813 1865 1692 len_this_num:3
+this_num:1865:
+1865 1692 len_this_num:2
+this_num:1692:
+1692 3905 8356 3127 len_this_num:4
+this_num:3905:
+3905 8356 3127 len_this_num:3
+this_num:8356:
+8356 3127 len_this_num:2
+this_num:3127:
+3127 9723 507 len_this_num:3
+this_num:9723:
+9723 507 len_this_num:2
+this_num:507:
+507 1144 7267 1811 1811 1144 len_this_num:5
+this_num:1144:
+1144 7267 1811 len_this_num:3
+this_num:7267:
+7267 1811 len_this_num:2
+this_num:1811:
+1811 9338 1278 len_this_num:3
+this_num:9338:
+9338 1278 len_this_num:2
+this_num:1278:
+1278 7772 2328 len_this_num:3
+this_num:7772:
+7772 2328 len_this_num:2
+this_num:2328:
+2328 5170 8939 6125 139 len_this_num:5
+this_num:5170:
+5170 8939 6125 139 len_this_num:4
+this_num:8939:
+8939 6125 139 len_this_num:3
+this_num:6125:
+6125 139 len_this_num:2
+this_num:139:
+139 9816 6340 3640 len_this_num:4
+this_num:9816:
+9816 6340 3640 len_this_num:3
+this_num:6340:
+6340 3640 len_this_num:2
+this_num:3640:
+3640 7966 9071 8148 7542 len_this_num:5
+this_num:7966:
+7966 9071 8148 7542 len_this_num:4
+this_num:9071:
+9071 8148 7542 len_this_num:3
+this_num:8148:
+8148 7542 len_this_num:2
+this_num:7542:
+7542 9951 2902 len_this_num:3
+this_num:9951:
+9951 2902 len_this_num:2
+this_num:2902:
+2902 9546 3110 len_this_num:3
+this_num:9546:
+9546 3110 len_this_num:2
+this_num:3110:
+3110 6557 7067 3004 403 len_this_num:5
+this_num:6557:
+6557 7067 3004 403 len_this_num:4
+this_num:7067:
+7067 3004 403 len_this_num:3
+this_num:3004:
+3004 403 len_this_num:2
+this_num:403:
+403 1566 535 len_this_num:3
+this_num:1566:
+1566 535 len_this_num:2
+this_num:535:
+535 6013 2564 len_this_num:3
+this_num:6013:
+6013 2564 len_this_num:2
+this_num:2564:
+2564 5449 369 len_this_num:3
+this_num:5449:
+5449 369 len_this_num:2
+this_num:369:
+369 1901 2470 4989 8038 3920 573 len_this_num:7
+this_num:1901:
+1901 2470 4989 8038 3920 573 len_this_num:6
+this_num:2470:
+2470 4989 8038 3920 573 len_this_num:5
+this_num:4989:
+4989 8038 3920 573 len_this_num:4
+this_num:8038:
+8038 3920 573 len_this_num:3
+this_num:3920:
+3920 573 len_this_num:2
+this_num:573:
+573 6648 5806 len_this_num:3
+this_num:6648:
+6648 5806 len_this_num:2
+this_num:5806:
+5806 8884 363 21 len_this_num:4
+this_num:8884:
+8884 363 21 len_this_num:3
+this_num:363:
+363 21 len_this_num:2
+this_num:21:
+21 2594 9783 5786 5412 5412 2594 len_this_num:6
+this_num:2594:
+2594 9783 5786 5412 len_this_num:4
+this_num:9783:
+9783 5786 5412 len_this_num:3
+this_num:5786:
+5786 5412 len_this_num:2
+this_num:5412:
+5412 8010 977 len_this_num:3
+this_num:8010:
+8010 977 len_this_num:2
+this_num:977:
+977 2349 568 len_this_num:3
+this_num:2349:
+2349 568 len_this_num:2
+this_num:568:
+568 5994 579 len_this_num:3
+this_num:5994:
+5994 579 len_this_num:2
+this_num:579:
+579 4013 5699 1642 len_this_num:4
+this_num:4013:
+4013 5699 1642 len_this_num:3
+this_num:5699:
+5699 1642 len_this_num:2
+this_num:1642:
+1642 4141 9275 8477 4018 len_this_num:5
+this_num:4141:
+4141 9275 8477 4018 len_this_num:4
+this_num:9275:
+9275 8477 4018 len_this_num:3
+this_num:8477:
+8477 4018 len_this_num:2
+this_num:4018:
+4018 7262 8828 1430 len_this_num:4
+this_num:7262:
+7262 8828 1430 len_this_num:3
+this_num:8828:
+8828 1430 len_this_num:2
+this_num:1430:
+1430 3544 2512 len_this_num:3
+this_num:3544:
+3544 2512 len_this_num:2
+this_num:2512:
+2512 9009 7733 852 len_this_num:4
+this_num:9009:
+9009 7733 852 len_this_num:3
+this_num:7733:
+7733 852 len_this_num:2
+this_num:852:
+852 1265 1580 2886 354 len_this_num:5
+this_num:1265:
+1265 1580 2886 354 len_this_num:4
+this_num:1580:
+1580 2886 354 len_this_num:3
+this_num:2886:
+2886 354 len_this_num:2
+this_num:354:
+354 1538 7604 3771 2197 986 len_this_num:6
+this_num:1538:
+1538 7604 3771 2197 986 len_this_num:5
+this_num:7604:
+7604 3771 2197 986 len_this_num:4
+this_num:3771:
+3771 2197 986 len_this_num:3
+this_num:2197:
+2197 986 len_this_num:2
+this_num:986:
+986 2688 3399 1615 len_this_num:4
+this_num:2688:
+2688 3399 1615 len_this_num:3
+this_num:3399:
+3399 1615 len_this_num:2
+this_num:1615:
+1615 8187 2652 len_this_num:3
+this_num:8187:
+8187 2652 len_this_num:2
+this_num:2652:
+2652 5118 6095 2744 837 len_this_num:5
+this_num:5118:
+5118 6095 2744 837 len_this_num:4
+this_num:6095:
+6095 2744 837 len_this_num:3
+this_num:2744:
+2744 837 len_this_num:2
+this_num:837:
+837 8435 84 len_this_num:3
+this_num:8435:
+8435 84 len_this_num:2
+this_num:84:
+84 9484 2632 1605 1476 len_this_num:5
+this_num:9484:
+9484 2632 1605 1476 len_this_num:4
+this_num:2632:
+2632 1605 1476 len_this_num:3
+this_num:1605:
+1605 1476 len_this_num:2
+this_num:1476:
+1476 6146 7954 1481 1271 928 len_this_num:6
+this_num:6146:
+6146 7954 1481 1271 928 len_this_num:5
+this_num:7954:
+7954 1481 1271 928 len_this_num:4
+this_num:1481:
+1481 1271 928 len_this_num:3
+this_num:1271:
+1271 928 len_this_num:2
+this_num:928:
+928 9466 1464 len_this_num:3
+this_num:9466:
+9466 1464 len_this_num:2
+this_num:1464:
+1464 3445 1783 len_this_num:3
+this_num:3445:
+3445 1783 len_this_num:2
+this_num:1783:
+1783 7344 5822 939 len_this_num:4
+this_num:7344:
+7344 5822 939 len_this_num:3
+this_num:5822:
+5822 939 len_this_num:2
+this_num:939:
+939 1489 3281 4241 3747 3747 1489 len_this_num:6
+this_num:1489:
+1489 3281 4241 3747 3747 3281 len_this_num:5
+this_num:3281:
+3281 4241 3747 len_this_num:3
+this_num:4241:
+4241 3747 len_this_num:2
+this_num:3747:
+3747 7275 6109 345 len_this_num:4
+this_num:7275:
+7275 6109 345 len_this_num:3
+this_num:6109:
+6109 345 len_this_num:2
+this_num:345:
+345 2822 3663 4938 2307 len_this_num:5
+this_num:2822:
+2822 3663 4938 2307 len_this_num:4
+this_num:3663:
+3663 4938 2307 len_this_num:3
+this_num:4938:
+4938 2307 len_this_num:2
+this_num:2307:
+2307 3232 4878 3234 3234 3232 len_this_num:5
+this_num:3232:
+3232 4878 3234 len_this_num:3
+this_num:4878:
+4878 3234 len_this_num:2
+this_num:3234:
+3234 7768 2574 len_this_num:3
+this_num:7768:
+7768 2574 len_this_num:2
+this_num:2574:
+2574 7678 6209 1977 len_this_num:4
+this_num:7678:
+7678 6209 1977 len_this_num:3
+this_num:6209:
+6209 1977 len_this_num:2
+this_num:1977:
+1977 8790 3240 1912 len_this_num:4
+this_num:8790:
+8790 3240 1912 len_this_num:3
+this_num:3240:
+3240 1912 len_this_num:2
+this_num:1912:
+1912 8629 920 len_this_num:3
+this_num:8629:
+8629 920 len_this_num:2
+this_num:920:
+920 4248 1479 len_this_num:3
+this_num:4248:
+4248 1479 len_this_num:2
+this_num:1479:
+1479 3202 1215 len_this_num:3
+this_num:3202:
+3202 1215 len_this_num:2
+this_num:1215:
+1215 3954 9596 3935 2043 len_this_num:5
+this_num:3954:
+3954 9596 3935 2043 len_this_num:4
+this_num:9596:
+9596 3935 2043 len_this_num:3
+this_num:3935:
+3935 2043 len_this_num:2
+this_num:2043:
+2043 9713 3402 len_this_num:3
+this_num:9713:
+9713 3402 len_this_num:2
+this_num:3402:
+3402 4372 6613 1467 len_this_num:4
+this_num:4372:
+4372 6613 1467 len_this_num:3
+this_num:6613:
+6613 1467 len_this_num:2
+this_num:1467:
+1467 1978 3885 9676 8715 6252 4697 4434 601 len_this_num:9
+this_num:1978:
+1978 3885 9676 8715 6252 4697 4434 601 len_this_num:8
+this_num:3885:
+3885 9676 8715 6252 4697 4434 601 len_this_num:7
+this_num:9676:
+9676 8715 6252 4697 4434 601 len_this_num:6
+this_num:8715:
+8715 6252 4697 4434 601 len_this_num:5
+this_num:6252:
+6252 4697 4434 601 len_this_num:4
+this_num:4697:
+4697 4434 601 len_this_num:3
+this_num:4434:
+4434 601 len_this_num:2
+this_num:601:
+601 2271 5914 647 len_this_num:4
+this_num:2271:
+2271 5914 647 len_this_num:3
+this_num:5914:
+5914 647 len_this_num:2
+this_num:647:
+647 3032 9030 1699 len_this_num:4
+this_num:3032:
+3032 9030 1699 len_this_num:3
+this_num:9030:
+9030 1699 len_this_num:2
+this_num:1699:
+1699 3311 1890 len_this_num:3
+this_num:3311:
+3311 1890 len_this_num:2
+this_num:1890:
+1890 3362 9601 1216 len_this_num:4
+this_num:3362:
+3362 9601 1216 len_this_num:3
+this_num:9601:
+9601 1216 len_this_num:2
+this_num:1216:
+1216 7970 1505 len_this_num:3
+this_num:7970:
+7970 1505 len_this_num:2
+this_num:1505:
+1505 2792 4555 5537 4248 4248 2792 len_this_num:6
+this_num:2792:
+2792 4555 5537 4248 len_this_num:4
+this_num:4555:
+4555 5537 4248 len_this_num:3
+this_num:5537:
+5537 4248 len_this_num:2
+this_num:4248:
+4248 7674 1521 len_this_num:3
+this_num:7674:
+7674 1521 len_this_num:2
+this_num:1521:
+1521 2829 1767 len_this_num:3
+this_num:2829:
+2829 1767 len_this_num:2
+this_num:1767:
+1767 2690 6152 5684 5684 2690 len_this_num:5
+this_num:2690:
+2690 6152 5684 len_this_num:3
+this_num:6152:
+6152 5684 len_this_num:2
+this_num:5684:
+5684 5918 855 len_this_num:3
+this_num:5918:
+5918 855 len_this_num:2
+this_num:855:
+855 5332 9282 4191 2175 len_this_num:5
+this_num:5332:
+5332 9282 4191 2175 len_this_num:4
+this_num:9282:
+9282 4191 2175 len_this_num:3
+this_num:4191:
+4191 2175 len_this_num:2
+this_num:2175:
+2175 9964 9067 8710 6046 4726 1750 len_this_num:7
+this_num:9964:
+9964 9067 8710 6046 4726 1750 len_this_num:6
+this_num:9067:
+9067 8710 6046 4726 1750 len_this_num:5
+this_num:8710:
+8710 6046 4726 1750 len_this_num:4
+this_num:6046:
+6046 4726 1750 len_this_num:3
+this_num:4726:
+4726 1750 len_this_num:2
+this_num:1750:
+1750 5169 8472 1154 len_this_num:4
+this_num:5169:
+5169 8472 1154 len_this_num:3
+this_num:8472:
+8472 1154 len_this_num:2
+this_num:1154:
+1154 4719 877 len_this_num:3
+this_num:4719:
+4719 877 len_this_num:2
+this_num:877:
+877 5846 9764 1232 len_this_num:4
+this_num:5846:
+5846 9764 1232 len_this_num:3
+this_num:9764:
+9764 1232 len_this_num:2
+this_num:1232:
+1232 8291 5671 3599 len_this_num:4
+this_num:8291:
+8291 5671 3599 len_this_num:3
+this_num:5671:
+5671 3599 len_this_num:2
+this_num:3599:
+3599 7063 4151 1187 len_this_num:4
+this_num:7063:
+7063 4151 1187 len_this_num:3
+this_num:4151:
+4151 1187 len_this_num:2
+this_num:1187:
+1187 8595 2125 len_this_num:3
+this_num:8595:
+8595 2125 len_this_num:2
+this_num:2125:
+2125 5485 5057 len_this_num:3
+this_num:5485:
+5485 5057 len_this_num:2
+this_num:5057:
+5057 9219 7550 len_this_num:3
+this_num:9219:
+9219 7550 len_this_num:2
+this_num:7550:
+7550 7718 9063 8079 8079 7718 len_this_num:5
+this_num:7718:
+7718 9063 8079 len_this_num:3
+this_num:9063:
+9063 8079 len_this_num:2
+this_num:8079:
+8079 8709 9662 219 len_this_num:4
+this_num:8709:
+8709 9662 219 len_this_num:3
+this_num:9662:
+9662 219 len_this_num:2
+this_num:219:
+219 1569 7682 7475 7475 1569 len_this_num:5
+this_num:1569:
+1569 7682 7475 len_this_num:3
+this_num:7682:
+7682 7475 len_this_num:2
+this_num:7475:
+7475 8805 9333 7436 len_this_num:4
+this_num:8805:
+8805 9333 7436 len_this_num:3
+this_num:9333:
+9333 7436 len_this_num:2
+this_num:7436:
+7436 7522 4563 2669 len_this_num:4
+this_num:7522:
+7522 4563 2669 len_this_num:3
+this_num:4563:
+4563 2669 len_this_num:2
+this_num:2669:
+2669 4361 5472 5276 5276 4361 len_this_num:5
+this_num:4361:
+4361 5472 5276 len_this_num:3
+this_num:5472:
+5472 5276 len_this_num:2
+this_num:5276:
+5276 8266 6089 2136 len_this_num:4
+this_num:8266:
+8266 6089 2136 len_this_num:3
+this_num:6089:
+6089 2136 len_this_num:2
+this_num:2136:
+2136 4604 7228 5584 5584 4604 len_this_num:5
+this_num:4604:
+4604 7228 5584 len_this_num:3
+this_num:7228:
+7228 5584 len_this_num:2
+this_num:5584:
+5584 9076 598 len_this_num:3
+this_num:9076:
+9076 598 len_this_num:2
+this_num:598:
+598 8599 3523 468 len_this_num:4
+this_num:8599:
+8599 3523 468 len_this_num:3
+this_num:3523:
+3523 468 len_this_num:2
+this_num:468:
+468 1169 1402 2964 9606 1009 len_this_num:6
+this_num:1169:
+1169 1402 2964 9606 1009 len_this_num:5
+this_num:1402:
+1402 2964 9606 1009 len_this_num:4
+this_num:2964:
+2964 9606 1009 len_this_num:3
+this_num:9606:
+9606 1009 len_this_num:2
+this_num:1009:
+1009 4061 4991 6868 7148 2510 391 len_this_num:7
+this_num:4061:
+4061 4991 6868 7148 2510 391 len_this_num:6
+this_num:4991:
+4991 6868 7148 2510 391 len_this_num:5
+this_num:6868:
+6868 7148 2510 391 len_this_num:4
+this_num:7148:
+7148 2510 391 len_this_num:3
+this_num:2510:
+2510 391 len_this_num:2
+this_num:391:
+391 5936 5781 len_this_num:3
+this_num:5936:
+5936 5781 len_this_num:2
+this_num:5781:
+5781 6861 5579 4020 3345 len_this_num:5
+this_num:6861:
+6861 5579 4020 3345 len_this_num:4
+this_num:5579:
+5579 4020 3345 len_this_num:3
+this_num:4020:
+4020 3345 len_this_num:2
+this_num:3345:
+3345 5943 8241 5081 2256 1810 len_this_num:6
+this_num:5943:
+5943 8241 5081 2256 1810 len_this_num:5
+this_num:8241:
+8241 5081 2256 1810 len_this_num:4
+this_num:5081:
+5081 2256 1810 len_this_num:3
+this_num:2256:
+2256 1810 len_this_num:2
+this_num:1810:
+1810 9228 1158 len_this_num:3
+this_num:9228:
+9228 1158 len_this_num:2
+this_num:1158:
+1158 3449 304 len_this_num:3
+this_num:3449:
+3449 304 len_this_num:2
+this_num:304:
+304 6430 1223 len_this_num:3
+this_num:6430:
+6430 1223 len_this_num:2
+this_num:1223:
+1223 3986 3734 len_this_num:3
+this_num:3986:
+3986 3734 len_this_num:2
+this_num:3734:
+3734 4843 438 len_this_num:3
+this_num:4843:
+4843 438 len_this_num:2
+this_num:438:
+438 2562 7049 9867 2480 1182 len_this_num:6
+this_num:2562:
+2562 7049 9867 2480 1182 len_this_num:5
+this_num:7049:
+7049 9867 2480 1182 len_this_num:4
+this_num:9867:
+9867 2480 1182 len_this_num:3
+this_num:2480:
+2480 1182 len_this_num:2
+this_num:1182:
+1182 9051 768 574 len_this_num:4
+this_num:9051:
+9051 768 574 len_this_num:3
+this_num:768:
+768 574 len_this_num:2
+this_num:574:
+574 6852 7526 9419 2883 534 len_this_num:6
+this_num:6852:
+6852 7526 9419 2883 534 len_this_num:5
+this_num:7526:
+7526 9419 2883 534 len_this_num:4
+this_num:9419:
+9419 2883 534 len_this_num:3
+this_num:2883:
+2883 534 len_this_num:2
+this_num:534:
+534 7580 1831 len_this_num:3
+this_num:7580:
+7580 1831 len_this_num:2
+this_num:1831:
+1831 4167 5520 1555 1037 len_this_num:5
+this_num:4167:
+4167 5520 1555 1037 len_this_num:4
+this_num:5520:
+5520 1555 1037 len_this_num:3
+this_num:1555:
+1555 1037 len_this_num:2
+this_num:1037:
+1037 4576 367 len_this_num:3
+this_num:4576:
+4576 367 len_this_num:2
+this_num:367:
+367 9601 1984 len_this_num:3
+this_num:9601:
+9601 1984 len_this_num:2
+this_num:1984:
+1984 6774 3398 1950 1452 len_this_num:5
+this_num:6774:
+6774 3398 1950 1452 len_this_num:4
+this_num:3398:
+3398 1950 1452 len_this_num:3
+this_num:1950:
+1950 1452 len_this_num:2
+this_num:1452:
+1452 8732 382 len_this_num:3
+this_num:8732:
+8732 382 len_this_num:2
+this_num:382:
+382 6833 4058 len_this_num:3
+this_num:6833:
+6833 4058 len_this_num:2
+this_num:4058:
+4058 6918 4606 len_this_num:3
+this_num:6918:
+6918 4606 len_this_num:2
+this_num:4606:
+4606 4730 692 len_this_num:3
+this_num:4730:
+4730 692 len_this_num:2
+this_num:692:
+692 2433 2260 len_this_num:3
+this_num:2433:
+2433 2260 len_this_num:2
+this_num:2260:
+2260 3919 8839 6102 566 len_this_num:5
+this_num:3919:
+3919 8839 6102 566 len_this_num:4
+this_num:8839:
+8839 6102 566 len_this_num:3
+this_num:6102:
+6102 566 len_this_num:2
+this_num:566:
+566 1840 2486 9546 8593 1364 len_this_num:6
+this_num:1840:
+1840 2486 9546 8593 1364 len_this_num:5
+this_num:2486:
+2486 9546 8593 1364 len_this_num:4
+this_num:9546:
+9546 8593 1364 len_this_num:3
+this_num:8593:
+8593 1364 len_this_num:2
+this_num:1364:
+1364 6493 2508 len_this_num:3
+this_num:6493:
+6493 2508 len_this_num:2
+this_num:2508:
+2508 2873 3338 6723 3005 2401 len_this_num:6
+this_num:2873:
+2873 3338 6723 3005 2401 len_this_num:5
+this_num:3338:
+3338 6723 3005 2401 len_this_num:4
+this_num:6723:
+6723 3005 2401 len_this_num:3
+this_num:3005:
+3005 2401 len_this_num:2
+this_num:2401:
+2401 4193 3107 943 len_this_num:4
+this_num:4193:
+4193 3107 943 len_this_num:3
+this_num:3107:
+3107 943 len_this_num:2
+this_num:943:
+943 1227 4514 5280 406 len_this_num:5
+this_num:1227:
+1227 4514 5280 406 len_this_num:4
+this_num:4514:
+4514 5280 406 len_this_num:3
+this_num:5280:
+5280 406 len_this_num:2
+this_num:406:
+406 791 324 len_this_num:3
+this_num:791:
+791 324 len_this_num:2
+this_num:324:
+324 6539 226 2 len_this_num:4
+this_num:6539:
+6539 226 2 len_this_num:3
+this_num:226:
+226 2 len_this_num:2
+this_num:2:
+2 6269 5433 len_this_num:3
+this_num:6269:
+6269 5433 len_this_num:2
+this_num:5433:
+5433 9730 4391 173 len_this_num:4
+this_num:9730:
+9730 4391 173 len_this_num:3
+this_num:4391:
+4391 173 len_this_num:2
+this_num:173:
+173 1125 4818 618 437 len_this_num:5
+this_num:1125:
+1125 4818 618 437 len_this_num:4
+this_num:4818:
+4818 618 437 len_this_num:3
+this_num:618:
+618 437 len_this_num:2
+this_num:437:
+437 2119 8567 3671 3671 2119 len_this_num:5
+this_num:2119:
+2119 8567 3671 len_this_num:3
+this_num:8567:
+8567 3671 len_this_num:2
+this_num:3671:
+3671 8722 7253 len_this_num:3
+this_num:8722:
+8722 7253 len_this_num:2
+this_num:7253:
+7253 9654 4530 len_this_num:3
+this_num:9654:
+9654 4530 len_this_num:2
+this_num:4530:
+4530 9358 277 len_this_num:3
+this_num:9358:
+9358 277 len_this_num:2
+this_num:277:
+277 1848 356 len_this_num:3
+this_num:1848:
+1848 356 len_this_num:2
+this_num:356:
+356 3280 3227 len_this_num:3
+this_num:3280:
+3280 3227 len_this_num:2
+this_num:3227:
+3227 4453 2056 91 len_this_num:4
+this_num:4453:
+4453 2056 91 len_this_num:3
+this_num:2056:
+2056 91 len_this_num:2
+this_num:91:
+91 6305 996 len_this_num:3
+this_num:6305:
+6305 996 len_this_num:2
+this_num:996:
+996 5424 1770 len_this_num:3
+this_num:5424:
+5424 1770 len_this_num:2
+this_num:1770:
+1770 9555 8507 4299 len_this_num:4
+this_num:9555:
+9555 8507 4299 len_this_num:3
+this_num:8507:
+8507 4299 len_this_num:2
+this_num:4299:
+4299 7730 4075 len_this_num:3
+this_num:7730:
+7730 4075 len_this_num:2
+this_num:4075:
+4075 8803 1429 len_this_num:3
+this_num:8803:
+8803 1429 len_this_num:2
+this_num:1429:
+1429 6184 2478 len_this_num:3
+this_num:6184:
+6184 2478 len_this_num:2
+this_num:2478:
+2478 8654 6663 len_this_num:3
+this_num:8654:
+8654 6663 len_this_num:2
+this_num:6663:
+6663 7038 5348 2280 len_this_num:4
+this_num:7038:
+7038 5348 2280 len_this_num:3
+this_num:5348:
+5348 2280 len_this_num:2
+this_num:2280:
+2280 2472 9759 3703 3703 2472 len_this_num:5
+this_num:2472:
+2472 9759 3703 len_this_num:3
+this_num:9759:
+9759 3703 len_this_num:2
+this_num:3703:
+3703 4003 2447 len_this_num:3
+this_num:4003:
+4003 2447 len_this_num:2
+this_num:2447:
+2447 8165 4968 len_this_num:3
+this_num:8165:
+8165 4968 len_this_num:2
+this_num:4968:
+4968 6766 2699 1406 len_this_num:4
+this_num:6766:
+6766 2699 1406 len_this_num:3
+this_num:2699:
+2699 1406 len_this_num:2
+this_num:1406:
+1406 8639 372 len_this_num:3
+this_num:8639:
+8639 372 len_this_num:2
+this_num:372:
+372 2827 8527 9454 422 len_this_num:5
+this_num:2827:
+2827 8527 9454 422 len_this_num:4
+this_num:8527:
+8527 9454 422 len_this_num:3
+this_num:9454:
+9454 422 len_this_num:2
+this_num:422:
+422 945 2095 516 len_this_num:4
+this_num:945:
+945 2095 516 len_this_num:3
+this_num:2095:
+2095 516 len_this_num:2
+this_num:516:
+516 5937 1366 len_this_num:3
+this_num:5937:
+5937 1366 len_this_num:2
+this_num:1366:
+1366 3914 3145 len_this_num:3
+this_num:3914:
+3914 3145 len_this_num:2
+this_num:3145:
+3145 9285 6446 len_this_num:3
+this_num:9285:
+9285 6446 len_this_num:2
+this_num:6446:
+6446 8177 9630 83 len_this_num:4
+this_num:8177:
+8177 9630 83 len_this_num:3
+this_num:9630:
+9630 83 len_this_num:2
+this_num:83:
+83 3936 5841 1228 len_this_num:4
+this_num:3936:
+3936 5841 1228 len_this_num:3
+this_num:5841:
+5841 1228 len_this_num:2
+this_num:1228:
+1228 5456 4393 len_this_num:3
+this_num:5456:
+5456 4393 len_this_num:2
+this_num:4393:
+4393 9709 5589 26 len_this_num:4
+this_num:9709:
+9709 5589 26 len_this_num:3
+this_num:5589:
+5589 26 len_this_num:2
+this_num:26:
+26 6925 8069 2319 339 len_this_num:5
+this_num:6925:
+6925 8069 2319 339 len_this_num:4
+this_num:8069:
+8069 2319 339 len_this_num:3
+this_num:2319:
+2319 339 len_this_num:2
+this_num:339:
+339 9853 3744 len_this_num:3
+this_num:9853:
+9853 3744 len_this_num:2
+this_num:3744:
+3744 9266 592 len_this_num:3
+this_num:9266:
+9266 592 len_this_num:2
+this_num:592:
+592 4329 6642 2416 33 len_this_num:5
+this_num:4329:
+4329 6642 2416 33 len_this_num:4
+this_num:6642:
+6642 2416 33 len_this_num:3
+this_num:2416:
+2416 33 len_this_num:2
+this_num:33:
+33 3244 3587 8751 7264 5175 1124 len_this_num:7
+this_num:3244:
+3244 3587 8751 7264 5175 1124 len_this_num:6
+this_num:3587:
+3587 8751 7264 5175 1124 len_this_num:5
+this_num:8751:
+8751 7264 5175 1124 len_this_num:4
+this_num:7264:
+7264 5175 1124 len_this_num:3
+this_num:5175:
+5175 1124 len_this_num:2
+this_num:1124:
+1124 4686 9476 4466 253 len_this_num:5
+this_num:4686:
+4686 9476 4466 253 len_this_num:4
+this_num:9476:
+9476 4466 253 len_this_num:3
+this_num:4466:
+4466 253 len_this_num:2
+this_num:253:
+253 6708 7656 6025 801 len_this_num:5
+this_num:6708:
+6708 7656 6025 801 len_this_num:4
+this_num:7656:
+7656 6025 801 len_this_num:3
+this_num:6025:
+6025 801 len_this_num:2
+this_num:801:
+801 7099 4280 len_this_num:3
+this_num:7099:
+7099 4280 len_this_num:2
+this_num:4280:
+4280 9049 1669 len_this_num:3
+this_num:9049:
+9049 1669 len_this_num:2
+this_num:1669:
+1669 4546 2744 1088 606 391 len_this_num:6
+this_num:4546:
+4546 2744 1088 606 391 len_this_num:5
+this_num:2744:
+2744 1088 606 391 len_this_num:4
+this_num:1088:
+1088 606 391 len_this_num:3
+this_num:606:
+606 391 len_this_num:2
+this_num:391:
+391 2093 3191 573 len_this_num:4
+this_num:2093:
+2093 3191 573 len_this_num:3
+this_num:3191:
+3191 573 len_this_num:2
+this_num:573:
+573 7945 7552 7435 12 len_this_num:5
+this_num:7945:
+7945 7552 7435 12 len_this_num:4
+this_num:7552:
+7552 7435 12 len_this_num:3
+this_num:7435:
+7435 12 len_this_num:2
+this_num:12:
+12 6667 864 160 len_this_num:4
+this_num:6667:
+6667 864 160 len_this_num:3
+this_num:864:
+864 160 len_this_num:2
+this_num:160:
+160 1903 958 len_this_num:3
+this_num:1903:
+1903 958 len_this_num:2
+this_num:958:
+958 7781 2516 len_this_num:3
+this_num:7781:
+7781 2516 len_this_num:2
+this_num:2516:
+2516 6149 4515 103 len_this_num:4
+this_num:6149:
+6149 4515 103 len_this_num:3
+this_num:4515:
+4515 103 len_this_num:2
+this_num:103:
+103 4233 3388 2497 len_this_num:4
+this_num:4233:
+4233 3388 2497 len_this_num:3
+this_num:3388:
+3388 2497 len_this_num:2
+this_num:2497:
+2497 7701 1086 len_this_num:3
+this_num:7701:
+7701 1086 len_this_num:2
+this_num:1086:
+1086 1869 8558 9125 7007 7007 1869 len_this_num:6
+this_num:1869:
+1869 8558 9125 7007 len_this_num:4
+this_num:8558:
+8558 9125 7007 len_this_num:3
+this_num:9125:
+9125 7007 len_this_num:2
+this_num:7007:
+7007 8365 5116 len_this_num:3
+this_num:8365:
+8365 5116 len_this_num:2
+this_num:5116:
+5116 7727 2658 len_this_num:3
+this_num:7727:
+7727 2658 len_this_num:2
+this_num:2658:
+2658 4326 8270 1221 len_this_num:4
+this_num:4326:
+4326 8270 1221 len_this_num:3
+this_num:8270:
+8270 1221 len_this_num:2
+this_num:1221:
+1221 1571 1799 4909 4236 4236 1571 len_this_num:6
+this_num:1571:
+1571 1799 4909 4236 4236 1799 len_this_num:5
+this_num:1799:
+1799 4909 4236 len_this_num:3
+this_num:4909:
+4909 4236 len_this_num:2
+this_num:4236:
+4236 8601 5712 194 len_this_num:4
+this_num:8601:
+8601 5712 194 len_this_num:3
+this_num:5712:
+5712 194 len_this_num:2
+this_num:194:
+194 3625 3253 len_this_num:3
+this_num:3625:
+3625 3253 len_this_num:2
+this_num:3253:
+3253 7825 8514 3336 len_this_num:4
+this_num:7825:
+7825 8514 3336 len_this_num:3
+this_num:8514:
+8514 3336 len_this_num:2
+this_num:3336:
+3336 5783 1017 len_this_num:3
+this_num:5783:
+5783 1017 len_this_num:2
+this_num:1017:
+1017 4978 3339 len_this_num:3
+this_num:4978:
+4978 3339 len_this_num:2
+this_num:3339:
+3339 3695 4665 5935 9868 8381 7728 4985 4985 3695 len_this_num:9
+this_num:3695:
+3695 4665 5935 9868 8381 7728 4985 4985 4665 len_this_num:8
+this_num:4665:
+4665 5935 9868 8381 7728 4985 len_this_num:6
+this_num:5935:
+5935 9868 8381 7728 4985 len_this_num:5
+this_num:9868:
+9868 8381 7728 4985 len_this_num:4
+this_num:8381:
+8381 7728 4985 len_this_num:3
+this_num:7728:
+7728 4985 len_this_num:2
+this_num:4985:
+4985 5537 6310 3119 982 len_this_num:5
+this_num:5537:
+5537 6310 3119 982 len_this_num:4
+this_num:6310:
+6310 3119 982 len_this_num:3
+this_num:3119:
+3119 982 len_this_num:2
+this_num:982:
+982 9354 8693 5494 547 len_this_num:5
+this_num:9354:
+9354 8693 5494 547 len_this_num:4
+this_num:8693:
+8693 5494 547 len_this_num:3
+this_num:5494:
+5494 547 len_this_num:2
+this_num:547:
+547 3855 7549 690 len_this_num:4
+this_num:3855:
+3855 7549 690 len_this_num:3
+this_num:7549:
+7549 690 len_this_num:2
+this_num:690:
+690 2287 9704 1614 len_this_num:4
+this_num:2287:
+2287 9704 1614 len_this_num:3
+this_num:9704:
+9704 1614 len_this_num:2
+this_num:1614:
+1614 6789 1016 453 len_this_num:4
+this_num:6789:
+6789 1016 453 len_this_num:3
+this_num:1016:
+1016 453 len_this_num:2
+this_num:453:
+453 528 1733 5669 1341 189 3 len_this_num:7
+this_num:528:
+528 1733 5669 1341 189 3 len_this_num:6
+this_num:1733:
+1733 5669 1341 189 3 len_this_num:5
+this_num:5669:
+5669 1341 189 3 len_this_num:4
+this_num:1341:
+1341 189 3 len_this_num:3
+this_num:189:
+189 3 len_this_num:2
+this_num:3:
+3 8437 9275 11 len_this_num:4
+this_num:8437:
+8437 9275 11 len_this_num:3
+this_num:9275:
+9275 11 len_this_num:2
+this_num:11:
+11 5285 5093 len_this_num:3
+this_num:5285:
+5285 5093 len_this_num:2
+this_num:5093:
+5093 9858 1730 len_this_num:3
+this_num:9858:
+9858 1730 len_this_num:2
+this_num:1730:
+1730 8553 9541 3252 444 len_this_num:5
+this_num:8553:
+8553 9541 3252 444 len_this_num:4
+this_num:9541:
+9541 3252 444 len_this_num:3
+this_num:3252:
+3252 444 len_this_num:2
+this_num:444:
+444 1639 480 len_this_num:3
+this_num:1639:
+1639 480 len_this_num:2
+this_num:480:
+480 7055 2567 len_this_num:3
+this_num:7055:
+7055 2567 len_this_num:2
+this_num:2567:
+2567 2884 2858 len_this_num:3
+this_num:2884:
+2884 2858 len_this_num:2
+this_num:2858:
+2858 7547 129 len_this_num:3
+this_num:7547:
+7547 129 len_this_num:2
+this_num:129:
+129 4635 6860 8046 8617 5044 5044 4635 len_this_num:7
+this_num:4635:
+4635 6860 8046 8617 5044 len_this_num:5
+this_num:6860:
+6860 8046 8617 5044 len_this_num:4
+this_num:8046:
+8046 8617 5044 len_this_num:3
+this_num:8617:
+8617 5044 len_this_num:2
+this_num:5044:
+5044 6422 5926 len_this_num:3
+this_num:6422:
+6422 5926 len_this_num:2
+this_num:5926:
+5926 7473 9149 333 len_this_num:4
+this_num:7473:
+7473 9149 333 len_this_num:3
+this_num:9149:
+9149 333 len_this_num:2
+this_num:333:
+333 8756 1046 len_this_num:3
+this_num:8756:
+8756 1046 len_this_num:2
+this_num:1046:
+1046 5381 6529 3921 2312 len_this_num:5
+this_num:5381:
+5381 6529 3921 2312 len_this_num:4
+this_num:6529:
+6529 3921 2312 len_this_num:3
+this_num:3921:
+3921 2312 len_this_num:2
+this_num:2312:
+2312 7069 8202 1171 len_this_num:4
+this_num:7069:
+7069 8202 1171 len_this_num:3
+this_num:8202:
+8202 1171 len_this_num:2
+this_num:1171:
+1171 1570 3264 5388 3429 3429 1570 len_this_num:6
+this_num:1570:
+1570 3264 5388 3429 3429 3264 len_this_num:5
+this_num:3264:
+3264 5388 3429 len_this_num:3
+this_num:5388:
+5388 3429 len_this_num:2
+this_num:3429:
+3429 5880 1992 len_this_num:3
+this_num:5880:
+5880 1992 len_this_num:2
+this_num:1992:
+1992 7600 6322 4269 len_this_num:4
+this_num:7600:
+7600 6322 4269 len_this_num:3
+this_num:6322:
+6322 4269 len_this_num:2
+this_num:4269:
+4269 5760 99 len_this_num:3
+this_num:5760:
+5760 99 len_this_num:2
+this_num:99:
+99 5032 3055 len_this_num:3
+this_num:5032:
+5032 3055 len_this_num:2
+this_num:3055:
+3055 4383 1050 len_this_num:3
+this_num:4383:
+4383 1050 len_this_num:2
+this_num:1050:
+1050 4928 4562 len_this_num:3
+this_num:4928:
+4928 4562 len_this_num:2
+this_num:4562:
+4562 9274 4721 len_this_num:3
+this_num:9274:
+9274 4721 len_this_num:2
+this_num:4721:
+4721 8788 513 len_this_num:3
+this_num:8788:
+8788 513 len_this_num:2
+this_num:513:
+513 6191 1572 len_this_num:3
+this_num:6191:
+6191 1572 len_this_num:2
+this_num:1572:
+1572 4088 1997 1647 len_this_num:4
+this_num:4088:
+4088 1997 1647 len_this_num:3
+this_num:1997:
+1997 1647 len_this_num:2
+this_num:1647:
+1647 9170 5740 673 len_this_num:4
+this_num:9170:
+9170 5740 673 len_this_num:3
+this_num:5740:
+5740 673 len_this_num:2
+this_num:673:
+673 1450 883 625 len_this_num:4
+this_num:1450:
+1450 883 625 len_this_num:3
+this_num:883:
+883 625 len_this_num:2
+this_num:625:
+625 7406 9531 484 len_this_num:4
+this_num:7406:
+7406 9531 484 len_this_num:3
+this_num:9531:
+9531 484 len_this_num:2
+this_num:484:
+484 5160 4521 112 len_this_num:4
+this_num:5160:
+5160 4521 112 len_this_num:3
+this_num:4521:
+4521 112 len_this_num:2
+this_num:112:
+112 9964 440 len_this_num:3
+this_num:9964:
+9964 440 len_this_num:2
+this_num:440:
+440 1103 374 len_this_num:3
+this_num:1103:
+1103 374 len_this_num:2
+this_num:374:
+374 2700 478 len_this_num:3
+this_num:2700:
+2700 478 len_this_num:2
+this_num:478:
+478 3758 305 len_this_num:3
+this_num:3758:
+3758 305 len_this_num:2
+this_num:305:
+305 8188 3811 len_this_num:3
+this_num:8188:
+8188 3811 len_this_num:2
+this_num:3811:
+3811 7259 6003 len_this_num:3
+this_num:7259:
+7259 6003 len_this_num:2
+this_num:6003:
+6003 9754 4717 len_this_num:3
+this_num:9754:
+9754 4717 len_this_num:2
+this_num:4717:
+4717 5306 5854 6586 6415 6415 5306 len_this_num:6
+this_num:5306:
+5306 5854 6586 6415 6415 5854 len_this_num:5
+this_num:5854:
+5854 6586 6415 len_this_num:3
+this_num:6586:
+6586 6415 len_this_num:2
+this_num:6415:
+6415 9524 5813 len_this_num:3
+this_num:9524:
+9524 5813 len_this_num:2
+this_num:5813:
+5813 7292 105 len_this_num:3
+this_num:7292:
+7292 105 len_this_num:2
+this_num:105:
+105 2644 488 len_this_num:3
+this_num:2644:
+2644 488 len_this_num:2
+this_num:488:
+488 667 8336 2574 2574 667 len_this_num:5
+this_num:667:
+667 8336 2574 len_this_num:3
+this_num:8336:
+8336 2574 len_this_num:2
+this_num:2574:
+2574 6500 5556 len_this_num:3
+this_num:6500:
+6500 5556 len_this_num:2
+this_num:5556:
+5556 6212 5754 1552 850 len_this_num:5
+this_num:6212:
+6212 5754 1552 850 len_this_num:4
+this_num:5754:
+5754 1552 850 len_this_num:3
+this_num:1552:
+1552 850 len_this_num:2
+this_num:850:
+850 1516 3221 3476 6602 7737 8891 7896 2739 2739 1516 len_this_num:10
+this_num:1516:
+1516 3221 3476 6602 7737 8891 7896 2739 len_this_num:8
+this_num:3221:
+3221 3476 6602 7737 8891 7896 2739 len_this_num:7
+this_num:3476:
+3476 6602 7737 8891 7896 2739 len_this_num:6
+this_num:6602:
+6602 7737 8891 7896 2739 len_this_num:5
+this_num:7737:
+7737 8891 7896 2739 len_this_num:4
+this_num:8891:
+8891 7896 2739 len_this_num:3
+this_num:7896:
+7896 2739 len_this_num:2
+this_num:2739:
+2739 5962 87 len_this_num:3
+this_num:5962:
+5962 87 len_this_num:2
+this_num:87:
+87 4265 1871 1828 len_this_num:4
+this_num:4265:
+4265 1871 1828 len_this_num:3
+this_num:1871:
+1871 1828 len_this_num:2
+this_num:1828:
+1828 6705 4503 len_this_num:3
+this_num:6705:
+6705 4503 len_this_num:2
+this_num:4503:
+4503 6479 9858 179 len_this_num:4
+this_num:6479:
+6479 9858 179 len_this_num:3
+this_num:9858:
+9858 179 len_this_num:2
+this_num:179:
+179 8116 101 len_this_num:3
+this_num:8116:
+8116 101 len_this_num:2
+this_num:101:
+101 6586 3977 1356 len_this_num:4
+this_num:6586:
+6586 3977 1356 len_this_num:3
+this_num:3977:
+3977 1356 len_this_num:2
+this_num:1356:
+1356 2475 4962 513 len_this_num:4
+this_num:2475:
+2475 4962 513 len_this_num:3
+this_num:4962:
+4962 513 len_this_num:2
+this_num:513:
+513 2073 2338 1281 len_this_num:4
+this_num:2073:
+2073 2338 1281 len_this_num:3
+this_num:2338:
+2338 1281 len_this_num:2
+this_num:1281:
+1281 2662 7986 8203 9451 9105 8804 8804 2662 len_this_num:8
+this_num:2662:
+2662 7986 8203 9451 9105 8804 8804 7986 len_this_num:7
+this_num:7986:
+7986 8203 9451 9105 8804 8804 8203 len_this_num:6
+this_num:8203:
+8203 9451 9105 8804 len_this_num:4
+this_num:9451:
+9451 9105 8804 len_this_num:3
+this_num:9105:
+9105 8804 len_this_num:2
+this_num:8804:
+8804 9780 323 len_this_num:3
+this_num:9780:
+9780 323 len_this_num:2
+this_num:323:
+323 1554 499 len_this_num:3
+this_num:1554:
+1554 499 len_this_num:2
+this_num:499:
+499 2832 1448 len_this_num:3
+this_num:2832:
+2832 1448 len_this_num:2
+this_num:1448:
+1448 3779 6328 6967 6911 1529 len_this_num:6
+this_num:3779:
+3779 6328 6967 6911 1529 len_this_num:5
+this_num:6328:
+6328 6967 6911 1529 len_this_num:4
+this_num:6967:
+6967 6911 1529 len_this_num:3
+this_num:6911:
+6911 1529 len_this_num:2
+this_num:1529:
+1529 5365 3252 88 len_this_num:4
+this_num:5365:
+5365 3252 88 len_this_num:3
+this_num:3252:
+3252 88 len_this_num:2
+this_num:88:
+88 6129 287 len_this_num:3
+this_num:6129:
+6129 287 len_this_num:2
+this_num:287:
+287 3340 9918 7891 5338 5338 3340 len_this_num:6
+this_num:3340:
+3340 9918 7891 5338 len_this_num:4
+this_num:9918:
+9918 7891 5338 len_this_num:3
+this_num:7891:
+7891 5338 len_this_num:2
+this_num:5338:
+5338 5876 1731 len_this_num:3
+this_num:5876:
+5876 1731 len_this_num:2
+this_num:1731:
+1731 7490 5643 3608 253 len_this_num:5
+this_num:7490:
+7490 5643 3608 253 len_this_num:4
+this_num:5643:
+5643 3608 253 len_this_num:3
+this_num:3608:
+3608 253 len_this_num:2
+this_num:253:
+253 301 9693 6332 6332 301 len_this_num:5
+this_num:301:
+301 9693 6332 len_this_num:3
+this_num:9693:
+9693 6332 len_this_num:2
+this_num:6332:
+6332 7441 1814 1584 216 len_this_num:5
+this_num:7441:
+7441 1814 1584 216 len_this_num:4
+this_num:1814:
+1814 1584 216 len_this_num:3
+this_num:1584:
+1584 216 len_this_num:2
+this_num:216:
+216 3202 6834 3849 2237 902 136 len_this_num:7
+this_num:3202:
+3202 6834 3849 2237 902 136 len_this_num:6
+this_num:6834:
+6834 3849 2237 902 136 len_this_num:5
+this_num:3849:
+3849 2237 902 136 len_this_num:4
+this_num:2237:
+2237 902 136 len_this_num:3
+this_num:902:
+902 136 len_this_num:2
+this_num:136:
+136 3199 7440 9180 7564 7564 3199 len_this_num:6
+this_num:3199:
+3199 7440 9180 7564 7564 7440 len_this_num:5
+this_num:7440:
+7440 9180 7564 len_this_num:3
+this_num:9180:
+9180 7564 len_this_num:2
+this_num:7564:
+7564 9535 4562 3355 len_this_num:4
+this_num:9535:
+9535 4562 3355 len_this_num:3
+this_num:4562:
+4562 3355 len_this_num:2
+this_num:3355:
+3355 5101 2812 1006 763 len_this_num:5
+this_num:5101:
+5101 2812 1006 763 len_this_num:4
+this_num:2812:
+2812 1006 763 len_this_num:3
+this_num:1006:
+1006 763 len_this_num:2
+this_num:763:
+763 1306 2591 3340 1428 1428 1306 len_this_num:6
+this_num:1306:
+1306 2591 3340 1428 len_this_num:4
+this_num:2591:
+2591 3340 1428 len_this_num:3
+this_num:3340:
+3340 1428 len_this_num:2
+this_num:1428:
+1428 9850 2583 len_this_num:3
+this_num:9850:
+9850 2583 len_this_num:2
+this_num:2583:
+2583 8659 4437 len_this_num:3
+this_num:8659:
+8659 4437 len_this_num:2
+this_num:4437:
+4437 7434 5828 721 len_this_num:4
+this_num:7434:
+7434 5828 721 len_this_num:3
+this_num:5828:
+5828 721 len_this_num:2
+this_num:721:
+721 6502 1015 len_this_num:3
+this_num:6502:
+6502 1015 len_this_num:2
+this_num:1015:
+1015 7549 7948 1002 len_this_num:4
+this_num:7549:
+7549 7948 1002 len_this_num:3
+this_num:7948:
+7948 1002 len_this_num:2
+this_num:1002:
+1002 9006 1528 1119 len_this_num:4
+this_num:9006:
+9006 1528 1119 len_this_num:3
+this_num:1528:
+1528 1119 len_this_num:2
+this_num:1119:
+1119 2751 1060 len_this_num:3
+this_num:2751:
+2751 1060 len_this_num:2
+this_num:1060:
+1060 7385 1218 len_this_num:3
+this_num:7385:
+7385 1218 len_this_num:2
+this_num:1218:
+1218 7536 44 len_this_num:3
+this_num:7536:
+7536 44 len_this_num:2
+this_num:44:
+44 3220 2705 934 len_this_num:4
+this_num:3220:
+3220 2705 934 len_this_num:3
+this_num:2705:
+2705 934 len_this_num:2
+this_num:934:
+934 2168 7658 5384 5384 2168 len_this_num:5
+this_num:2168:
+2168 7658 5384 len_this_num:3
+this_num:7658:
+7658 5384 len_this_num:2
+this_num:5384:
+5384 7738 368 len_this_num:3
+this_num:7738:
+7738 368 len_this_num:2
