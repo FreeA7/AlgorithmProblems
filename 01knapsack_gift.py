@@ -33,7 +33,8 @@ image: ./image/01knapsack.jpg
 from utils import timer
 import random
 
-# 每轮只测试首尾，相当于一个人拿的一定是首尾的数
+
+# 模拟，每轮只测试首尾，相当于一个人拿的一定是首尾的数
 class Solution1:
     @timer
     def maxPresent(self , presentVec ):
@@ -60,6 +61,7 @@ class Solution1:
                 a += temp_li[-1]
                 temp_li.pop(-1)
         return diff_o
+    
     
 # 贪心算法
 class Solution2:
@@ -89,6 +91,7 @@ class Solution2:
                 temp_li.pop(index_min)
         return diff_o
     
+    
 # 01背包
 class Solution3:
     @timer
@@ -109,6 +112,38 @@ class Solution3:
         return sum(li) - (2*matrx[item_num][bag])
     
     
+# 01背包优化，空间复杂度降低
+class Solution4:
+    @timer
+    def maxPresent(self , presentVec ):
+        value_sum = sum(presentVec)
+        space_half = value_sum // 2
+        dp_this_item = [0 for s in range(space_half+1)]
+        dp_last_item = [0 for s in range(space_half+1)]
+        for item in range(1, len(presentVec)+1):
+            for space in range(1, space_half+1):
+                if presentVec[item-1] <= space:
+                    dp_this_item[space] = max(dp_last_item[space], dp_last_item[space-presentVec[item-1]]+presentVec[item-1])
+                else:
+                    dp_this_item[space] = dp_last_item[space]
+            dp_this_item, dp_last_item = dp_last_item, dp_this_item
+        return value_sum - 2*dp_last_item[-1]
+    
+
+# 01背包优化，空间复杂度极致降低    
+class Solution5:
+    @timer
+    def maxPresent(self , presentVec ):
+        value_sum = sum(presentVec)
+        space_half = value_sum // 2
+        dp = [0 for s in range(space_half+1)]
+        for item in range(1, len(presentVec)+1):
+            for space in range(space_half, presentVec[item-1]-1, -1):
+                if presentVec[item-1] <= space:
+                    dp[space] = max(dp[space], dp[space-presentVec[item-1]]+presentVec[item-1])
+        return value_sum - 2*dp[-1]
+    
+    
 # --------------------- 输出 ---------------------
 target1 = [1,2,3,4,5]
 target2 = [1,3,5]
@@ -117,6 +152,7 @@ target4 = [1,1,1,1,1]
 target5 = [41,467,334,1,169,224,478,358]
 target6 = [41,467,334,0,169,224,478,358,462,464,205]
 target7 = [1,5,9,7,3,10,15,6,6]
+target8 = [41,467,334,500,169,724,478,358,962,464,705,145,281,827,961,491,995,942,827,436]
 
 tar = target5
 
@@ -129,12 +165,20 @@ print(s.maxPresent(tar))
 s = Solution3()
 print(s.maxPresent(tar))
 
+s = Solution4()
+print(s.maxPresent(tar))
+
+s = Solution5()
+print(s.maxPresent(tar))
+
 '''
-maxPresent 共用时：4.579999949783087e-05 s
+Solution1.maxPresent 共用时：1.7899999875226058e-05 s
 384
-maxPresent 共用时：3.5400000342633575e-05 s
+Solution2.maxPresent 共用时：6.209999992279336e-05 s
 26
-maxPresent 共用时：0.020082799999727285 s
+Solution3.maxPresent 共用时：0.018778800000291085 s
+4
+Solution4.maxPresent 共用时：0.012764099999913014 s
 4
 '''
                 
