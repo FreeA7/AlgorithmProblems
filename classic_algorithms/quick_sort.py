@@ -9,7 +9,9 @@ QuickSort
 
 
 import random
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 
 # Select the last element as the pivot
 class Sort1(object):

@@ -6,7 +6,7 @@ Created on Wed Mar 18 11:12:12 2020
 
 https://www.nowcoder.com/practice/69205d499ec74ff7b32419c652cfba34
 
-给你一个边长为 a 的六边形 01 矩阵，请找到一个最大的全 1 子三角形，输出三角形的边长 b。
+给你边长 a 的六边形 01 矩阵，找到一大的 1 子三角形，输出三角形的边 b
 
 示例1
 输入:
@@ -16,11 +16,13 @@ https://www.nowcoder.com/practice/69205d499ec74ff7b32419c652cfba34
 """
 
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 
-# 分解成多层，逐层递进找最大值
+# 分解成层，层递进找最大
 class Solution1:
     def getMapList(self, a, maps):
         map_lists = []
@@ -256,7 +258,7 @@ class Solution2:
                         max_l = temp_l      
         return max_l          
 
-# 想改进，认为子三角形不可能为顶点，但是想错了，做法是错的                         
+# 想改进，认为子三角形不可能为顶点，但想错了，做法错的                         
 class Solution3:
     def getMapList(self, a, maps):
         map_lists = []
@@ -376,10 +378,10 @@ class Solution3:
         return max_l 
 
 
-# DP args为四边形高度h，每一个可能的三角形构造点(i,j)
-# dp[h][i][j] = max(dp[h-1][x][y]+1 if (x,y)的长度为dp[h-1][x][y]+1在增加了一行后可以成立)
-# 但是这样做会有很多空循环，空间复杂度是thta(a*a*a)，时间复杂度是thta(a*a*a)
-# 所以写作dp[h][l] = [(i,j)]
+# DP args为四边形高度h，每能的三形构点(i,j)
+# dp[h][i][j] = max(dp[h-1][x][y]+1 if (x,y)的长度为dp[h-1][x][y]+1在加了一行后以成)
+# 但是这样做会有很多空，空间杂度是thta(a*a*a)，时间杂度是thta(a*a*a)
+# 以写作dp[h][l] = [(i,j)]
 class Solution4:  
     def getMapList(self, a, maps):
         map_lists = []

@@ -6,9 +6,9 @@ Created on Fri Mar 20 11:32:10 2020
 
 https://www.nowcoder.com/practice/c880afeeaeeb4316b19e784452216e23
 
-有n个水桶，第i个水桶里面水的体积为Ai，你可以用1秒时间向一个桶里添加1体积的水。
-有q次询问，每次询问一个整数pi,你需要求出使其中pi个桶中水的体积相同所花费的最少时间。
-对于一次询问如果有多种方案，则采用使最终pi个桶中水的体积最小的方案。
+有n水桶，i水桶里面水的体积为Ai，你以用1秒时间向桶里添加1体积的水
+有q次问，每次问整数pi,你需要求出使其中pi桶中水的体积相同花费的最少时间
+对于次问如果有方案，则采用使终pi桶中水的体积小的方
 
 示例
 输入:
@@ -16,22 +16,24 @@ https://www.nowcoder.com/practice/c880afeeaeeb4316b19e784452216e23
 输出:
     [1,0,5]
 说明:
-    第一次：花费一秒变为 2 2 3 4
+    次：花费秒变 2 2 3 4
 
-    第二次：已经存在两个水的体积一样的桶
+    二：已经存在两个水的体积样的
     
-    第三次：花费五秒从2 2 3 4变为4 4 4 4
+    三：花费五从2 2 3 4变为4 4 4 4
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 from collections import Counter
 import random
 
-# @param n int整型 水桶的个数
-# @param q int整型 询问的次数
-# @param a int整型一维数组 n个水桶中初始水的体积
-# @param p int整型一维数组 每次询问的值
-# @return int整型一维数组
+# @param n int整型 水桶的个
+# @param q int整型 询问的数
+# @param a int整型维数 n水桶初水的体
+# @param p int整型维数 每问的
+# @return int整型维数
 
 class Solution1:
     @timer

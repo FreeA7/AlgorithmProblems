@@ -6,10 +6,10 @@ Created on Sun Mar 29 11:23:23 2020
 
 https://www.nowcoder.com/practice/9053c1dc96e5480e8a4d2a63e34c45d0
 
-众所周知，牛妹需要很多衣服，有直播的时候穿的、有舞剑的时候穿的、有跳舞的时候穿的、有弹琴的时候穿的，等等
-这些衣服都是由固定大小的矩形布料裁剪而成，心灵手巧的牛妹也知道每件衣服所需要的具体矩形布料的长和宽
-然而，她只有一块大的布料可供她裁剪。裁剪的时候可以随便剪
-那么问题来了，美腻的牛妹能最多可以做出多少件衣服呢？
+众所周知，牛妹需要很多衣服，有直的时候穿的有舞剑的时候穿的有跳舞的时候穿的有弹琴的时候穿的，等等
+这些衣服都是由固定大小的矩形布料裁剪而成，心灵手巧的牛也知道每件衣服要的具体矩形布料的长和
+然，她只有一块大的布料可供她裁剪。剪的时候可以随便剪
+那么题来了，美腻的牛妹能多可以做出少件衣服呢
 
 示例
 输入:
@@ -18,7 +18,9 @@ https://www.nowcoder.com/practice/9053c1dc96e5480e8a4d2a63e34c45d0
     5
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 
@@ -52,7 +54,7 @@ class Solution1:
         return dp[W][L]
 
 
-# DP，设定l>=w O(w*(l-w)*n) 时间复杂度减少了w^2*n space complexity O(w*(l-w))
+# DP，定l>=w O(w*(l-w)*n) 时间复杂度减少了w^2*n space complexity O(w*(l-w))
 class Solution2:
     @timer
     def clothNumber(self , L , W , clothSize ):

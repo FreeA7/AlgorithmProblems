@@ -6,10 +6,10 @@ Created on Thu Mar 26 11:00:21 2020
 
 https://www.nowcoder.com/practice/2818df3e10c44f859e49048875a71d34
 
-给一个序列，找出最长的“凸子序列”
-何为“凸子序列”：数列中有一个xi,使得所有x0<x1<x2….xi-1<xi且xi>xi+1>xi+1>….>xn
-eg：12345431,是山峰序列，12345234不是山峰序列
-注：单调递增或单调递减序列也算山峰序列；单独一个数是长度为1的山峰序列
+给一序列，找出最长的“凸子序列
+何为“凸子序列：数列有一个xi,使得有x0<x1<x2.xi-1<xi且xi>xi+1>xi+1>.>xn
+eg12345431,山峰序列12345234不是山峰序列
+：单调或单调递减序列也算山峰序列；单数是长度1的山峰序
 
 示例1
 输入:
@@ -22,15 +22,17 @@ eg：12345431,是山峰序列，12345234不是山峰序列
     [1,2,2,1]
 输出:
     3
-说明：
+说明
     1,2,1
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 
-# 理解错题意，以为是连续的才行
+# 理解错意，以为是连续的才
 class Solution1:
     @timer
     def mountainSequence(self , numberList ):
@@ -74,7 +76,7 @@ class Solution1:
         return max_len
     
 
-# 动态规划，一定要想清楚TOP的递归，不能瞎写，不总是TOP(i-1)+1
+# 动划，一定想清TOP的归，不能瞎写，不是TOP(i-1)+1
 class Solution2:
     @timer
     def mountainSequence(self , numberList ):

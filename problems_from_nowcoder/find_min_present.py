@@ -6,23 +6,25 @@ Created on Wed Mar 25 16:13:06 2020
 
 https://www.nowcoder.com/practice/c4f777778e3040358e1e708750bb7fb9
 
-众所周知，牛妹有很多很多粉丝，粉丝送了很多很多礼物给牛妹，牛妹的礼物摆满了地板。
-地板是N×M的格子，每个格子有且只有一个礼物，牛妹已知每个礼物的体积。
-地板的坐标是左上角(1,1)  右下角（N, M）。
-牛妹只想要从屋子左上角走到右下角，每次走一步，每步只能向下走一步或者向右走一步或者向右下走一步
-每次走过一个格子，拿起（并且必须拿上）这个格子上的礼物。
-牛妹想知道，她能走到最后拿起的所有礼物体积最小和是多少？
+众所周知，牛妹有很很多粉丝，粉丝送了很很多礼物给牛，牛的礼物摆满了地板
+地板是N×M的格子，每个格子有且有一礼物，牛妹已知每礼物的体
+地板的坐标是左上(1,1)  右下角（N, M）
+牛只想从屋子左上角走到右下，每走步，每只能向下走步或者向右走步或者向右下走一
+每走过一格子，拿起（并且必须拿上）这格子上的礼物
+牛想知道，她能走到最后拿起的有礼物体小和多少
 
 示例
 输入:
     [[1,2,3],[2,3,4]]
 输出:
     7
-说明：
+说明
     (1,1)->(1,2)->(2,3)
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 from heapq import heappush, heappop
@@ -54,7 +56,7 @@ class Solution1:
                         except IndexError:
                             pass
    
-# 动态规划                     
+# 动划                     
 class Solution2:
     @timer
     def selectPresent(self , presentVolumn ):

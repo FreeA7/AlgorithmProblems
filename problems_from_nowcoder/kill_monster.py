@@ -6,7 +6,9 @@ Created on Sat Mar 28 20:53:15 2020
 """
 
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 # Bitmasking & bp O(2^n*n)

@@ -6,8 +6,8 @@ Created on Tue Mar 16 13:21:20 2020
 
 https://www.nowcoder.com/practice/9deb03b935ec4fd288a8ee5d20364581
 
-给定一个数组 nums，其中有 n 个非负整数。你的目的是进行两次操作，使得数组的元素之和最小。
-每次操作形如：任选一个整数 x ，将数组中所有大于等于 x 的数减去 x 。
+给定数组 nums，其 n 非负整数。你的目的是进两次操作，使得数组的元素之和最小
+每操作形如：任一整数 x ，将数组有大于等 x 的数减去 x 
 
 示例1
 输入:
@@ -15,16 +15,18 @@ https://www.nowcoder.com/practice/9deb03b935ec4fd288a8ee5d20364581
 输出:
     0
 说明:
-    初始数组为 [2, 1, 3]。
-    先选择 x = 2，则所有大于等于 2 的元素减去 2 ，变成 [0, 1, 1]。
-    再选择 x = 1，则所有大于等于 1 的元素减去 1 ，变成 [0, 0, 0]。
-    所以数组元素之和的最小值为 0。
+    初数组为 [2, 1, 3]
+    先择 x = 2，则有大于等 2 的元素减 2 ，变 [0, 1, 1]
+    再择 x = 1，则有大于等 1 的元素减 1 ，变 [0, 0, 0]
+    以数组元素之和的小为 0
 """
 
 import copy
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 
-# 两次最优
+# 两最
 class Solution1:
     def minNums(self , nums, getlist=0):
         nums = sorted(nums)
@@ -106,7 +108,7 @@ class Solution2:
     def minimumValueAfterDispel(self, nums):
         return self.minNums(nums)
 
-# 一半遍历
+# 半遍
 class Solution3:
     def getNums(self, nums, xt):
         for i in range(len(nums)):

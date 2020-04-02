@@ -6,8 +6,8 @@ Created on Thu Mar 19 19:37:23 2020
 
 https://www.nowcoder.com/practice/0eaf4653f1d243d4a46b3d5d60a7362e
 
-给定大小为n的整数集合A，代表n根木棍的长度。从A中任选4根木棍组成一个四边形，求其面积最大为多少。数据保证有解。
-程序返回结果与正确答案的误差应小于0.00001
+给定大小为n的整数集合A，代表n根木棍的长度。从A任4根木棍组成一四边，求其面大为多少。数保证有解
+程序返回结果与确答的应小0.00001
 
 示例
 输入:
@@ -17,11 +17,13 @@ https://www.nowcoder.com/practice/0eaf4653f1d243d4a46b3d5d60a7362e
 """
 
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 
-# 布雷特施奈德公式 (Bretschneider's formula)，直接遍历
+# 布雷特施奈德 (Bretschneider's formula)，直接遍
 class Solution1:
     def getS(self, a,b,c,d):
         l = (a+b+c+d)/2

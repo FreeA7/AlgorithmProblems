@@ -6,33 +6,35 @@ Created on Wed Apr  1 11:22:11 2020
 
 https://www.nowcoder.com/practice/f0ebe2aa29da4a4a9d0ea71357cf2f91
 
-牛妹是一家口罩厂家的老板，由于现在疫情严重，牛妹想重新分配每条生产线上的人数来使得能生产的口罩最多。
-牛妹所在的公司一共有mm名员工，nn条生产线(0.....n-1)，每条生产线有strategy[i].size种人数安排策略。
-例如：33个人在aa生产线上，aa生产线每天生产88个口罩；55个人在aa生产线上，每天aa生产线能生产1515个口罩。
-牛妹想知道通过合理的策略安排最多每天能生产多少口罩？（可以不用将所有员工都分配上岗，生产线可以选择闲置
+牛是家口罩厂家的老板，由于现在疫情严重，牛想重新分配每条生产线上的人数来使得能生产的口罩多
+牛所在的司一共有mm名员工，nn条生产线(0.....n-1)，每条生产线有strategy[i].size种人数安排策略
+例：33人在aa生产线上，aa生产线每天生88口罩55人在aa生产线上，每天aa生产线能生产1515口罩
+牛想知道通过合理的策略安排最多每天能生产多少口罩？（以不用将有员工都分配上岗，生产线以择闲置
 
 示例
-输入：
+输入
     3,5,[[(1,3),(2,4)],[(3,4),(4,4)],[(8,8)]]
-输出：
+输出
     8
-说明：
-    11号生产线采用策略22，22号生产线采用策略11，33号生产线不生产
+说明
+    11号生产线采用策略2222号生产线采用策略1133号生产线不生
     
-这个问题相当于是一个01背包问题，人数相当于背包空间。
-01背包的时间复杂度是固定的，但是空间复杂度可以进行优化
+这个题相当于01背包题，人数相当于背包空间
+01背包的时间杂度是固定的，但是空间复杂度可以进行优
 这里尝试了一下：
 O(M*N*S) -> O(M*N) -> O(M*2) -> O(M)
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 
-# states最多，production_line person strategy
-# 但是时间复杂度并没有变高，因为没有对每一个生产线便利max_num_strategies
-# 只是便利了所拥有的strategy，但是空间复杂度最高
-# 从代码中可以理解，对于每一个已经计算过的production_line我们只需要知道其dp[production_line][person][last strategy]就够了
+# states多，production_line person strategy
+# 但是时间复杂度并没有变高，因为没有每生产线便利max_num_strategies
+# 便利了所拥有的strategy，但空间复杂度最
+# 从代码中以理解，对于每一已经计算过的production_line我们要知道其dp[production_line][person][last strategy]就了
 class Solution1:
     @timer
     def producemask(self , n , m , strategies):
@@ -51,9 +53,9 @@ class Solution1:
         return dp[-1][-1][len(strategies[-1])]
 
 
-# 所以我们去掉state中的strategy，只记录production_line和person
-# 我们从代码中又能理解，我们其实也不用需要知道当前生产线和前一个生产线之前的结果
-# 因为我们最终的转移只发生在当前生产线和前一个生产线
+# 以我去掉state的strategy，只记录production_line和person
+# 我们从代码中又能理解，我其实也不用需要知道当前生产线和前生产线之前的结果
+# 因为我们终的移只发生在当前生产线和前生产
 class Solution2:
     @timer
     def producemask(self , n , m , strategies):
@@ -69,8 +71,8 @@ class Solution2:
         return dp[-1][-1]
     
 
-# 因此我们继续减少，只记录当前生产线和前一个生产线的情况，减少的空间复杂度 
-# 此时可以发现，当前生产线在转移person时，只需要用到的前一个生产线比person更少的存储值
+# 因我继续减少，只记录当前生产线和前一生产线的情况，减少的空间复杂 
+# 此时以发现，当前生产线在移person时，要用到的前一生产线比person更少的存储
 class Solution3:
     @timer
     def producemask(self , n , m , strategies):
@@ -88,11 +90,11 @@ class Solution3:
         return dp_last_production_line[-1]
     
 
-# 把前一个生产线的结果和当前生产线的结果存储在同一个dp中
-# 以当前正在转移的person为界
-# 大于等于person的位置存储的是当前生产线的dp
-# 小于person的位置存储的是前一个生产线的dp
-# 极致优化空间复杂度
+# 把前生产线的结果和当前生产线的结果存储在同一个dp
+# 以当前在移的person为界
+# 大于等于person的位存储的是当前生产线的dp
+# 小于person的位存储的是前一生产线的dp
+# 极致优化空间复杂
 class Solution4:
     @timer
     def producemask(self , n , m , strategies):

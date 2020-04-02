@@ -1,1 +1,1 @@
-# exams
+# AlgorithmProblems

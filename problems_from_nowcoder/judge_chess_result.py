@@ -6,20 +6,22 @@ Created on Tue Mar 31 11:48:33 2020
 
 https://www.nowcoder.com/practice/2b0f51e8b1594d7091576dab05e00693
 
-牛妹在和牛牛下牛客象棋。现在轮到牛妹了，牛妹想知道她在这一回合能否战胜牛牛。
+牛在和牛牛下牛象棋现在轮到牛妹了，牛妹想知道她在这一回合能否战胜牛牛
 
-棋盘chessboard上只可能包含：炮，将，车，兵
+棋盘chessboard上只能包：炮，将，车，兵
 
 示例
 输入:
     ["......", "..B...", "P.C.j.", "......", "..b..."," ...J.." ]
 输出:
     "Happy"
-说明：
-    牛妹的炮可以攻击到牛牛的将，所以获胜
+说明
+    牛的以攻击到牛牛的将，所以获
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 

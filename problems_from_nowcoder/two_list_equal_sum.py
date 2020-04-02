@@ -6,7 +6,7 @@ Created on Tue Mar 17 10:53:51 2020
 
 https://www.nowcoder.com/practice/efc16ce46397436a8d1a0008c52093c1
 
-有两个长度为n的数组a,b,希望统计有多少数对(l,r)满足：
+有两长度为n的数组a,b,希望统有多少数(l,r)满足
 1. 0<=l<=r<=n-1
 2. al + .. + ar == bl + br
 
@@ -19,7 +19,9 @@ https://www.nowcoder.com/practice/efc16ce46397436a8d1a0008c52093c1
     满足条件的数对有(0, 1), (0, 2), (1, 1), (1, 2)(0,1),(0,2),(1,1),(1,2)
 """
 
-from utils import timer
+import sys
+sys.path.append("..")
+from utils.utils import timer
 import random
 
 # 直接遍历
@@ -38,7 +40,7 @@ class Solution1:
 #                    print('(%d,%d)'%(i, j))
         return nums
     
-# 不用sum，每次依次向后求和，边做比对边求和
+# 不用sum，每次依次向后求和，边做比边求和
 class Solution2:
     @timer
     def countLR(self , a , b ):
@@ -58,7 +60,7 @@ class Solution2:
         return nums
     
 
-# 一次求和，之后每次减去上一轮的值
+# 次求和，之后每减去上的
 class Solution3:
     @timer
     def countLR(self , a , b ):
