@@ -5,6 +5,25 @@ Created on Fri Mar 27 01:44:28 2020
 @author: FreeA7
 
 HeapSort
+
+Heap can be implemented using a list,
+the first number of list is the root of the entire heap.
+Index*2 + 1 is left child and index*2 + 2 is right child.
+(The reason why we can get these index is the properties
+of heap.) ==>
+A Heap is a special Tree-based data structure in which
+the tree is a complete binary tree.
+
+
+So in the process to create heap using list must
+traverse the list from the tail. Then you wil create
+the heap from the leaf and create partial heaps and eventually
+figure out the max/min number as the root of heap.
+
+After creating the heap, we exchange the min/max number(the root
+of heap) with the last number of list(a leaf). Then we heapify
+the heap from the root, and we will get the second min/max
+number.
 """
 
 
@@ -31,8 +50,9 @@ class HeapSort(object):
         
         
 target1 = [5,1,9,7,8,5,3,1]
+target2 = [1,2,3,4,5,6,7,8]
 
-tar = target1
+tar = target2
 
 s = HeapSort()
 s.heapSort(tar)
