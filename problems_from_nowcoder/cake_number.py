@@ -50,6 +50,7 @@ tar = target4
 s = Solution1()
 print(s.cakeNumber(tar))
 
+
 '''
 Solution1.cakeNumber 共用时：1.1000000085914508e-05 s
 311070
