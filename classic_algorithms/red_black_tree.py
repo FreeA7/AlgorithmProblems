@@ -481,4 +481,13 @@ if __name__ == '__main__':
     redblacktree.savePlot(PATH, 'Example5Created')
     redblacktree.delete(8)
     print(redblacktree)
-    redblacktree.savePlot(PATH, 'Example5Deleted')  
+    redblacktree.savePlot(PATH, 'Example5Deleted')
+    
+    # Example 6
+    redblacktree = RedBlackTreeCreater()
+    redblacktree.insert(list(range(100,0,-1)))
+    print(redblacktree)
+    redblacktree.savePlot(PATH, 'Example6Created')
+    redblacktree.delete(50)
+    print(redblacktree)
+    redblacktree.savePlot(PATH, 'Example6Deleted')

@@ -48,7 +48,6 @@ class RedBlackTreePloter(object):
         for value in infos['coordinates'].keys():
             if infos['coordinates'][value][2]:
                 circle = mpatches.Circle((infos['coordinates'][value][0], infos['coordinates'][value][1]), 0.5, color='red')
-                
             else:
                 circle = mpatches.Circle((infos['coordinates'][value][0], infos['coordinates'][value][1]), 0.5, color='grey')
             circle.set_zorder(1)
@@ -61,7 +60,7 @@ class RedBlackTreePloter(object):
     @staticmethod
     def __plotLine(lines, ax):
         for line in lines:
-            line = mlines.Line2D(line[0], line[1],lw=3, ls='-')
+            line = mlines.Line2D(line[0], line[1], ls='-')
             line.set_zorder(0)
             ax.add_line(line)
             
