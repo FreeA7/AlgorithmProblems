@@ -432,7 +432,7 @@ class RedBlackTreeCreater(object):
         from red_black_tree_plot import RedBlackTreePloter
         if name == None: name = 'root%sblackheight%s'%(str(self.redblacktree.value), str(self.blackheight))
         RedBlackTreePloter.saveTree(self.redblacktree, path, name)
-        print('Save successfully: '+path+'Root%sBlackHeight%s'%(str(self.redblacktree.value), str(self.blackheight))+'.png')
+        print('Save successfully: ' + path + name + '.png')
         
         
 if __name__ == '__main__':    
