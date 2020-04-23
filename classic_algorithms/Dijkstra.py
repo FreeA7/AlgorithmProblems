@@ -23,7 +23,7 @@ def dijkstra(graph, s):
     heappush(priority_queue, (0, s, None))
     # 小已经输出
     seen = set()
-    # parent的映
+    # parent的映射，通过这个找到路径
     parent = {}
     # 队列为空则结
     while len(priority_queue) != 0:
