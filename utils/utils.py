@@ -1,6 +1,7 @@
 import functools
 import time
 
+
 def timer(func):
     @functools.wraps(func)
     def wrapper(*args, **kwargs):
@@ -11,6 +12,3 @@ def timer(func):
         print('{} 共用时：{} s'.format(func.__qualname__, run_time))
         return value
     return wrapper
-
-
-
