@@ -36,7 +36,6 @@ class RedBlackTree(object):
             output += '%s\t%s'%(str(None), str(None))
         return output
         
-        
     def isLeft(self):
         # Return the node is the left child of its parent or not
         return self == self.parent.left
