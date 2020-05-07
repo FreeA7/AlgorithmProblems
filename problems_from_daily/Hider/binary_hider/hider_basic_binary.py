@@ -9,7 +9,7 @@ from PIL import Image
 from sys import byteorder
 
 
-THRESHOLD = 150
+THRESHOLD = 160
 
 class EncryptionBinary(object):
     # 类实例化时的初始化函数，传入原始图片位置

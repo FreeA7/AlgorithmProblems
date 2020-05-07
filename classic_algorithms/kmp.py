@@ -7,6 +7,7 @@ Created on Wed Apr  8 17:26:39 2020
 KMP
 """
 
+
 class KMP(object):
     @staticmethod
     def __createPrefixTable(p):

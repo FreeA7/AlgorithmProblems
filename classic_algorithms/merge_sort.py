@@ -7,7 +7,6 @@ Created on Thu Mar 26 23:38:18 2020
 MergeSort
 """
 
-
 # return merge output
 class MergeSort1(object):
     def merge(self, left_list, right_list):
