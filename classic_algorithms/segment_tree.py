@@ -68,13 +68,11 @@ class SegmentTree(object):
                 self.r.update(index, value)
             self.value = sum([self.l.value, self.r.value])
 
-        
-array = list(range(1, 11))
-segment_tree = SegmentTree.build(array, 0, len(array)-1)
-print(segment_tree)
-print(segment_tree.query(1,4))
-segment_tree.update(1, 10)
-print(segment_tree)
 
-        
-
+if __name__ == '__main__':    
+    array = list(range(1, 11))
+    segment_tree = SegmentTree.build(array, 0, len(array)-1)
+    print(segment_tree)
+    print(segment_tree.query(1,4))
+    segment_tree.update(1, 10)
+    print(segment_tree)
